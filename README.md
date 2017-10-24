@@ -1,3 +1,4 @@
+#ktie1928 Kalisch Tudor
 # Car Dealership
 ## Description
 A mobile app designed to present and give the posibility to buy a car for the User. The Administrator will be able to see a full statistics of the cars bought, with the posibility of filtering the results. This should provide all needed requirements for a Car Dealership to sell cars
