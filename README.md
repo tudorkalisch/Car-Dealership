@@ -17,7 +17,7 @@ A mobile app designed to present and give the posibility to buy a car for the Us
 
 ### Admin Features
 1. - Statistics about buys
-2. - Email notification about ratings, comments and contact
+2. - Notification about ratings, comments and contact
 3. - CRUD operations for cars
 
 ## Activities
@@ -26,3 +26,11 @@ A mobile app designed to present and give the posibility to buy a car for the Us
 3. - Detail Activity
 4. - Contact Activity
 5. - Buy Activity
+
+## Flow of App
+1. - Splash screen (1-2 seconds delay)
+2. - Login
+3. - List of cars implemented with RecycleView, with mininaml details about each car
+4. - OnClick ViewHolder of car pass to Detail Screen
+5. - On detail screen posibility to rate, comment, buy
+6. - On buy button pressed pass to buy screen and given option to buy
